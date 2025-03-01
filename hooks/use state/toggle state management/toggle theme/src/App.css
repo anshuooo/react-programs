@@ -1,0 +1,17 @@
+/* Default light theme */
+body.light {
+  background-color: rgb(248, 161, 161);
+  color: rgb(20, 7, 7);
+}
+
+/* Dark theme */
+body.dark {
+  background-color: black;
+  color: #0af829;
+}
+
+/* Solarized theme */
+body.solarized {
+  background-color: #fdf6e3;
+  color: #657b83;
+}
